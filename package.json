@@ -1,0 +1,11 @@
+{
+  "name": "wisedroid-agent-template",
+  "private": true,
+  "scripts": {
+    "start": "python app/main.py",
+    "test": "pytest"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
